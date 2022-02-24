@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/itamaravady/Dev-skiller-1.git/static/css/main.2c426e85.css",
-    "main.js": "/itamaravady/Dev-skiller-1.git/static/js/main.c9d563cf.js",
-    "static/media/logo.png": "/itamaravady/Dev-skiller-1.git/static/media/logo.8523ccdec3239a5958ad.png",
-    "index.html": "/itamaravady/Dev-skiller-1.git/index.html",
-    "main.2c426e85.css.map": "/itamaravady/Dev-skiller-1.git/static/css/main.2c426e85.css.map",
-    "main.c9d563cf.js.map": "/itamaravady/Dev-skiller-1.git/static/js/main.c9d563cf.js.map"
+    "main.css": "/Dev-skiller-1/static/css/main.2c426e85.css",
+    "main.js": "/Dev-skiller-1/static/js/main.3e121972.js",
+    "static/media/logo.png": "/Dev-skiller-1/static/media/logo.8523ccdec3239a5958ad.png",
+    "index.html": "/Dev-skiller-1/index.html",
+    "main.2c426e85.css.map": "/Dev-skiller-1/static/css/main.2c426e85.css.map",
+    "main.3e121972.js.map": "/Dev-skiller-1/static/js/main.3e121972.js.map"
   },
   "entrypoints": [
     "static/css/main.2c426e85.css",
-    "static/js/main.c9d563cf.js"
+    "static/js/main.3e121972.js"
   ]
 }
