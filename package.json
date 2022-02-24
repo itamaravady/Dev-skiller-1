@@ -12,7 +12,7 @@
     "react-scripts": "^5.0.0",
     "redux-thunk": "^2.3.0"
   },
-  "homepage": "https://github.com/itamaravady/Dev-skiller-1.git",
+  "homepage": "https://itamaravady.github.io/Dev-skiller-1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
